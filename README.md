@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Instalation and running instrunctions:
+
+Copy the repo locally, open the folder in Terminal/Git Bash, run `npm install` to install the dependencies and after that `npm start` to start the server. That's it! 
+
 ## Available Scripts
 
 In the project directory, you can run:
